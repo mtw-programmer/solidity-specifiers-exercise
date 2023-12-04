@@ -1,0 +1,19 @@
+{
+  "name": "solidity-specifiers-exercise",
+  "version": "1.0.0",
+  "description": "A simple exercise to practice solidity specifiers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtw-programmer/solidity-specifiers-exercise.git"
+  },
+  "author": "mtw-programmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtw-programmer/solidity-specifiers-exercise/issues"
+  },
+  "homepage": "https://github.com/mtw-programmer/solidity-specifiers-exercise#readme"
+}
