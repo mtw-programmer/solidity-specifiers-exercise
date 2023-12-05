@@ -17,7 +17,7 @@ contract Specifiers {
   * The function is marked as internal which means it's restricted to this contract and the derived contracts
   * (contracts with "is Specifiers")
   * The pure specifier says that function doesn't read and write any state variables
-  * Returns specifies what type o data will be returned (in our case uint)
+  * Returns specifies what type of data will be returned (in our case uint)
   */
   function add(uint a, uint b) internal pure returns (uint) {
     return a + b;
